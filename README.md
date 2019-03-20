@@ -1,5 +1,3 @@
-
-# Data Science Bootcamp Group 2 Project 1
 # Medicare In-Patient Data Analysis: What is Ailing the Elderly?
 ### By: Brian Connel, Jeff Rosal, Ashok Bidani, and Michael Stewart
 
