@@ -1,0 +1,33 @@
+American Medicare Healthcare Analysis
+Who is ripping us off
+
+
+T-Th: Team 2
+===========================
+   1. Michael Stewart
+   2. Ashok B. Raife
+   3. Jeff Rosal
+   4. Brian Connell
+
+Description:
+Analyzing medicare data over time
+
+Key Questions:
+1) How does Medicare spending vary by State
+2) How has Medicare spending changed over time (2011-2015)
+3) What are significant factors that have influenced these changes? 
+(Initial exploration will consider; population growth, state spending, diagnosis-related groups (DRGs) costs)
+
+
+Data sources:
+FY2011: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Inpatient_Data_2011_CSV.zip
+FY2012: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Inpatient_Data_2012_CSV.zip
+FY2013: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Inpatient_Data_2013_CSV.zip
+FY2014: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Inpatient_Data_2014_CSV.zip
+FY2015: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Inpatient_Data_2015_CSV.zip
+Tasks:
+1) Collect data
+2) Clean and manipulate datesets
+3) Exploration of contributing factors and whether there are correlations or Trends
+4) Understand Medicare DRGs
+5) Consider additional api's to help identify trends or improve data visualation
